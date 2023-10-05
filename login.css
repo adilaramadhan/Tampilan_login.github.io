@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.kotak{
+    margin: -580px 0px 0px 700px;
+    width: 550px;
+    height: 540px;
+}
+.satu{
+    float: left;
+}
+.text-login span{
+    color: blue;
+}
+.text-login {
+    font-family: "poppins" , sans-serif;
+}
+.text-login h1{
+    font-size: 34px;
+   line-height: 80px;
+}
+.text-login h2{
+    font-size: 30px;
+    margin-top: 50px;
+}
+.text-login h3{
+    font-size: 15px;
+    margin-top: 10px;
+}
+form{
+    margin-top: 30px;
+}
+.form-control{
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #c4c4c4;
+    margin-bottom: 25px;
+    margin-top: 5px;
+    border-radius: 40px;
+}
+.btn-login{
+    width: 100%;
+    padding: 15px;
+    background: blue;
+    margin-top:10px;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+}
